@@ -18,7 +18,7 @@ namespace Variables_Smith_Luke
             Console.WriteLine(faveNumber);
             Console.WriteLine(isJumping);
             Console.WriteLine(isRunning);
-            Console.WriteLine(myFloat);
+            Console.WriteLine(importantFloat);
             Console.WriteLine(finalGrade);
         }
     }
