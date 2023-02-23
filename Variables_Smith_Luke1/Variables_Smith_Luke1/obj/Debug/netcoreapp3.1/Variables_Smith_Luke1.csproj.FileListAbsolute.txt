@@ -1,0 +1,13 @@
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\bin\Debug\netcoreapp3.1\Variables_Smith_Luke1.exe
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\bin\Debug\netcoreapp3.1\Variables_Smith_Luke1.deps.json
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\bin\Debug\netcoreapp3.1\Variables_Smith_Luke1.runtimeconfig.json
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\bin\Debug\netcoreapp3.1\Variables_Smith_Luke1.runtimeconfig.dev.json
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\bin\Debug\netcoreapp3.1\Variables_Smith_Luke1.dll
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\bin\Debug\netcoreapp3.1\Variables_Smith_Luke1.pdb
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.csproj.AssemblyReference.cache
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.AssemblyInfoInputs.cache
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.AssemblyInfo.cs
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.csproj.CoreCompileInputs.cache
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.dll
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.pdb
+C:\Users\luke.smith\Documents\Visual Studio 2019\Scripts and things\Variables_Smith_Luke1\Variables_Smith_Luke1\obj\Debug\netcoreapp3.1\Variables_Smith_Luke1.genruntimeconfig.cache
