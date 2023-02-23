@@ -9,9 +9,9 @@ namespace Variables_Smith_Luke
             //declaring and initializing variables
             int faveNumber;
             bool isJumping = false, isRunning = false;
-            float myFloat;
+            float importantFloat;
             faveNumber = 6;
-            myFloat = 729.21f;
+            importantFloat = 729.21f;
             const double finalGrade = 100.00;
 
             //printing all variables in seperate lines
