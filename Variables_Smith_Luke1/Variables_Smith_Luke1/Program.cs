@@ -12,7 +12,7 @@ namespace Variables_Smith_Luke
             float myFloat;
             faveNumber = 6;
             myFloat = 729.21f;
-            double finalGrade = 100;
+            const double finalGrade = 100.00;
 
             //printing all variables in seperate lines
             Console.WriteLine(faveNumber);
